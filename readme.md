@@ -1,13 +1,13 @@
 # Shortly Website
 
-Shortly landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+https://shortlys.vercel.app/
 
 ## Usage
 
 Install dependencies
 
 ```
-npm Install
+npm install
 ```
 
 Run Tailwind CLI
